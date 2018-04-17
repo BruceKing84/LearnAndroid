@@ -33,4 +33,3 @@ intent.putExtra("package","com.test.broadcast");
 Music （音乐）的启动方法为：
 # am start -n com.android.music/com.android.music.MusicBrowserActivity
 或者am start -n com.android.music/.MusicBrowserActivity
-
